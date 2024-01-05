@@ -12,13 +12,14 @@ body {
   font-size: 20px;
   font-weight: 700;
   color: #ffff;
-  padding: 18px 35px ;
+  padding: 18px 35px;
 }
 
 nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin: 0px 200px;
 }
 
 .portfolio-title {
@@ -40,4 +41,18 @@ nav li {
 nav a {
   text-decoration: none;
   color: #474747;
+}
+
+.header {
+  background-color: #fff8f3;
+}
+
+.banner {
+  margin: 30px 30px 30px 200px;
+  display: flex;
+  align-items: center;
+}
+.banner .profile-pic {
+  width: 500px;
+  height: 600px;
 }
