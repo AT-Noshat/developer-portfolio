@@ -133,3 +133,33 @@ nav a {
   margin: 0px 300px;
   margin-bottom: 50px;
 }
+
+.skill-container {
+  display: flex;
+  border: #181818 solid;
+  background-color: #fff8f3;
+  margin-bottom: 100px;
+}
+
+.skill {
+  padding: 30px;
+  margin: 0px 100px;
+  border-radius: 20px;
+  background: #fff;
+
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.resume {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff8f3;
+  border: #181818 solid;
+  border-radius: 20px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  margin-bottom: 30px;
+}
+.lastbtn{
+  text-align: center;
+ 
+}
